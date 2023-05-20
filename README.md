@@ -1,5 +1,5 @@
 # 💫 IRL:
-Atom<br>Architecture / construction student<br>blink-182 fan
+Atom<br>Architecture / construction student (Land surveyor/topographer and BIM engineer)<br>blink-182 fan
 
 
 ## 🌐 Socials:
