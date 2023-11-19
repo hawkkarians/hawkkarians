@@ -6,3 +6,15 @@
 /_/  |_\__/\____/_/ /_/ /_/ 
                             
 </pre>
+# ✨ "Skills"
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,c,html,css,js,r," />
+  </a>
+</p>
+
+# Now 'bout me
+- My fav color is purple ! 💜
+- I learned data science after my last breakup
+- I studied civil engineering and architecture in high school
+- I love my partner! <3
