@@ -15,6 +15,6 @@
 
 # Now 'bout me
 - My fav color is purple ! 💜
-- I learned data science after a breakup
+- I love data science 
 - I studied civil engineering and architecture in high school
-
+- I use arch (btw)
