@@ -14,7 +14,7 @@
 # ✨ "Skills"
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,c,html,css,js,r," />
+    <img src="https://skillicons.dev/icons?i=autocad,c,r," />
   </a>
 </p>
 
